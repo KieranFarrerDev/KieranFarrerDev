@@ -8,7 +8,7 @@
 
 - For those that want to see more! - www.kieranfarrer.co.uk (under construction)
 - Reach out! - kieranfarrerdev@gmail.com
-- My Up to date [Curriculum Vitae]()
+
 
 <!--
 **KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@
 
 
 Here are some ideas to get you started:
+- My Up to date [Curriculum Vitae]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
