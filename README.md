@@ -4,8 +4,8 @@
 
 ### Here you can find some of my past and current projects! 
 
-- kieranfarrerdev@gmail.com
-- www.kieranfarrer.co.uk (under construction)
+- Reach out - kieranfarrerdev@gmail.com
+- Get more of me! - www.kieranfarrer.co.uk (under construction)
 
 <!--
 **KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
