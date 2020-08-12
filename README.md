@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/KieranFarrerDev/KieranFarrerDev/blob/master/Webp.net-resizeimage (1).png" />
 
-## I'm Kieran, and welcome to my GitHub Page 👋
+## I'm Kieran, welcome to my GitHub Page 👋
 
 ### Here you can find some of my past and current projects! 
 
