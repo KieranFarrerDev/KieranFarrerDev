@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <img align="left" src="https://github.com/KieranFarrerDev/KieranFarrerDev/blob/master/Webp.net-resizeimage.png" />
-
+### Hi there 👋 I'm Kieran, and welcome to my GitHub Page 
 - test
 - test
 - test
