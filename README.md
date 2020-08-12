@@ -1,4 +1,4 @@
-<span style="color:red">
+
 <img align="left" src="https://github.com/KieranFarrerDev/KieranFarrerDev/blob/master/Webp.net-resizeimage (1).png" />
 
 ## I'm Kieran, welcome to my GitHub Page 👋
@@ -10,7 +10,7 @@
    <p> - For those that want to see more! - www.kieranfarrer.co.uk (under construction) </p>
    <p> - Reach out! - kieranfarrerdev@gmail.com </p>
 </div>
-</span>
+
 <!--
 **KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
