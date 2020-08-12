@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/KieranFarrerDev/KieranFarrerDev/blob/master/Webp.net-resizeimage.png)
+<img align="left" src="https://github.com/KieranFarrerDev/KieranFarrerDev/blob/master/Webp.net-resizeimage.png" />
 <!--
 **KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
