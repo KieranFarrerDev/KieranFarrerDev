@@ -3,9 +3,12 @@
 ## I'm Kieran, and welcome to my GitHub Page 👋
 
 ### Here you can find some of my past and current projects! 
+ 
+- 🌱 Currently contracting for University of the West of England, implemeting the Back-End for project that is in collaboration with the NHS.
 
-- Reach out - kieranfarrerdev@gmail.com
-- Get more of me! - www.kieranfarrer.co.uk (under construction)
+- For theose that want to see more! - www.kieranfarrer.co.uk (under construction)
+- Reach out! - kieranfarrerdev@gmail.com
+- My Up to date [Curriculum Vitae]()
 
 <!--
 **KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
