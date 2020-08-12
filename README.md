@@ -2,6 +2,8 @@
 
 ## I'm Kieran, and welcome to my GitHub Page 👋
 
+### Here you can find some of my past and current projects! 
+
 
 
 <!--
