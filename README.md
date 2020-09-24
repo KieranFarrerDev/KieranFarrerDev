@@ -6,7 +6,7 @@
 ### Here you can find some of my past and current projects! 
 
 <div style="text-align: right">  
-   <p> - Currently contracting for University of the West of England, implemeting the Back-End for project that is in collaboration with the NHS </p>
+   <p> - Currently contracting with codeWest, implemeting the Back-End for project that is in collaboration with the NHS </p>
    <p> - For those that want to see more! - www.kieranfarrer.co.uk (under construction) </p>
    <p> - Reach out! - kieranfarrerdev@gmail.com </p>
 </div>
