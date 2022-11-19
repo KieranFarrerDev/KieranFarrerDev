@@ -18,7 +18,7 @@
 
 <div style="text-align: right;" >  
    <h3>About me: </h3>
-   <p>I'm a multi disciplined Full Stack Developer currently specialising in the cyber secuirty sector. I love learning new technologies and pushing myself out of my comfort zone in order to develop and progress on both a technical and personal level.</p>
+   <p>I'm a multi disciplined Full Stack Developer currently specialising in the cyber secuirty sector. I love learning new technologies and pushing myself out of my comfort zone in order to develop and progress on both a technical and professional level.</p>
    <p> I have a passion for developing and maintaining readable, reusable and robust code.</p>
 </div>
 
