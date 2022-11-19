@@ -5,27 +5,41 @@
 
 ### Here you can find some of my past and current projects! 
 
-<div style="text-align: right">  
-   <p> - Currently contracting with codeWest, implemeting the Back-End for project that is in collaboration with the NHS </p>
-   <p> - For those that want to see more! - www.kieranfarrer.co.uk (under construction) </p>
-   <p> - Reach out! - kieranfarrerdev@gmail.com </p>
+##
+
+<div style="text-align: right">
+   <dl>
+      <dt>Current Role: Full Stack Developer @ CY2</dt>
+      <dd>A Cyber Security start-up that provides advanced cyber training and exercising across a suite of apps.</dd>
+   </dl>
 </div>
 
-<!--
-**KieranFarrerDev/KieranFarrerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+
+<div style="text-align: right;" >  
+   <h3>About me: </h3>
+   <p>I'm a multi disciplined Full Stack Developer currently specialising in the cyber secuirty sector. I love learning new technologies and pushing myself out of my comfort zone in order to develop and progress on both a technical and personal level.</p>
+   <p> I have a passion for developing and maintaining readable, reusable and robust code.</p>
+</div>
+
+##
+
+<dl>
+   <dt>Current Tech Stack:</dt>
+   <dd>Laravel, React, Vue, JS, Docker, AWS</dd>
+</dl>
+
+##
+
+<div style="text-align: right">  
+   <h3>Dont be shy: </h3>
+   <p>Say hi 😀 -> kieranfarrerdev@gmail.com </p>
+   <span>In depth Work History: 🚀 -> </span>
+   <a href="https://www.linkedin.com/in/kieran-farrer-194834175/">
+      My LinkedIn Profile
+   </a>
+</div>
+
+##
 
 
-
-
-Here are some ideas to get you started:
-- My Up to date [Curriculum Vitae]()
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
